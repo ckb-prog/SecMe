@@ -29,13 +29,13 @@ Set Permissions:
 Before running the script, ensure that it has execute permissions:
 
 ```bash
-chmod +x secure_harden.sh
+chmod +x SecMe.sh
 ```
 **Run as Root:**
 For the script to apply system changes, it must be run with root privileges:
 
 ```bash
-sudo ./secure_harden.sh
+sudo ./SecMe.sh
 ```
 ## Usage
 **Step 1**: Select Security Level

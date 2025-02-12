@@ -96,19 +96,18 @@ If applicable, undo changes in the system using the following commands (e.g., di
 ## Troubleshooting
 ```
 Issue: The script fails to apply changes because of permissions.
-
-- Solution: Make sure you are running the script with sudo to ensure it has root privileges.
 ```
+- Solution: Make sure you are running the script with sudo to ensure it has root privileges.
+
 ```
 Issue: Some services do not work after hardening.
-
+```
 - Solution: Check the log file /var/log/system_hardening.log for errors. It may provide clues about what was changed and what needs to be adjusted.
 ```
-```
 Issue: Unable to access the system after applying time-based access control.
-
-- Solution: Adjust the settings in /etc/security/access.conf or temporarily disable the feature by commenting out the access control entries.
 ```
+- Solution: Adjust the settings in /etc/security/access.conf or temporarily disable the feature by commenting out the access control entries.
+
 ## Contributing
 If you would like to contribute to SecMe, feel free to fork the repository and submit a pull request. Contributions are always welcome!
 

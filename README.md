@@ -23,7 +23,7 @@ Comprehensive System Hardening: Applies a wide range of security measures, inclu
 Backup and Logging: All changes made by SecMe are logged for future reference, and backups of critical files are made before changes are applied.
 ## Installation
 Download the Script:
-Download the secure_harden.sh script to your machine. You can either clone it from a repository or download it directly.
+Download the SecMe.sh script to your machine. You can either clone it from a repository or download it directly.
 
 Set Permissions:
 Before running the script, ensure that it has execute permissions:

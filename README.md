@@ -1,5 +1,6 @@
 # SecMe
 A security hardening script for Linux
+WIP - both SELinux and Apparmor are not configurable on the same system. TODO: add option to choose 
 -------------------------------------
 **SecMe README Manual**
 ## Introduction
